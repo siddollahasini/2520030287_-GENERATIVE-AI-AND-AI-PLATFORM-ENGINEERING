@@ -1,0 +1,4 @@
+.MyEnv/
+.MyEnv312/
+__pycache__/
+*.pyc
