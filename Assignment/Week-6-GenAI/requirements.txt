@@ -1,1 +1,2 @@
-requests
+# No external Python packages required.
+# This project uses Python standard library modules.
