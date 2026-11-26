@@ -1,4 +1,4 @@
-               Week-1 LLM
+                                      Week-1 LLM
 
 Aim:
 To connect Python with Gemini API and get a response from an AI model using a text prompt.
